@@ -1,1 +1,1 @@
-This is work versopn of NodeMCU for ESP32
+This is work version of NodeMCU for ESP32
